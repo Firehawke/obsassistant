@@ -1,0 +1,11 @@
+{
+    "plugin": {
+      "name": "obsassistant",
+      "description": "OBS Assistant",
+      "version": "1.0.0",
+      "author": "Firehawke, TwystNeko",
+      "type": "plugin",
+      "start": "false"
+    }
+  }
+  
